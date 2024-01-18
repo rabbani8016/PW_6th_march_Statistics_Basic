@@ -1,0 +1,155 @@
+Q1. What is Statistics?
+ans: statistics is the science of collecting, organizing analyzing data.
+
+
+
+
+
+
+Q2. Define the different types of statistics and give an example of when each type might be used.
+ans:There is two types of statistics 
+        1> Desciption statistics - It consists of organizing and summerizing data 
+                                   mean, median, mode
+                                   eg: what is the avg height of the classroom 
+        2> Intential statistics - It consists of using data that we have measured to form Conclusion
+                                   z - test, t-test, CMI SOUARF
+                                   eg: are the height of the student in classroom similar to what we except in the entire college
+        
+        
+        
+        
+        
+Q3.  What are the different types of data and how do they differ from each other? Provide an example of
+each type of data.
+ans: 2 types of data 1> QUANTITATIVE ------{1} Discard - Its besically whole no --eg: No of bank account, No of student in class
+                                           {2} Continous - It can be any value ---eg: weight, hight, Tempurature 
+
+                     2> QUALITATIVE -------{1} Nominal - Gender M,F | Blood gr | PinCode
+                                           {2} Ordinal - Customer Feedback 
+               
+               
+               
+Q4. Categorise the following datasets with respect to quantitative and qualitative data types:
+
+(i)	Grading in exam: A+, A, B+, B, C+, C, D, E  ------ Qualitative
+
+(ii)	Colour of mangoes: yellow, green, orange, red   ---Qialitative
+
+(iii)	Height data of a class: [178.9, 179, 179.5, 176, 177.2, 178.3, 175.8,...]  ---- Quantitative -continous
+
+(iv)	Number of mangoes exported by a farm: [500, 600, 478, 672, …]       ---- Quantitative -Discred          
+               
+
+
+
+
+Q5. Explain the concept of levels of measurement and give an example of a variable for each level.
+ans : 1. Nominal Scale Data - quantitative/ categorical, eg: gender, colors, labels, order doesn't matter 
+                              Favorite color 
+                              red - 5 ppl selected 
+                              Blue - 3 ppl selected 
+                              Orange - 2 ppl selected 
+                              
+      2. Ordinal Scale Data - Ranking is imp, order matter, Difference can't measured 
+                              eg: Racing some one came 1st 2nd 3rd 
+                              in that 1st in 4.20, 2nd came in 5.30, 3rd came in 6.00 so we can rank them order wise we can select them but we cant                                     measured
+                              
+      3. Interval Scale Data: The order matters, Difference can be measured, Ratio can be measured,  No True "0" starting point 
+                             Temp variable 
+                             30F, 60F, 90F, 120F we can order, difference of measure, ratio, but 0 is not starting because it can go -ve or +ve also 
+                             
+      4. Ratio Scale Data: The order matters, Difference can be measurable(including ratio), Contains 0 starting point 
+                              eg:
+                              student marks in a class
+                              90,60,45,56,45,78,97
+                              
+                              
+             
+             
+             
+             
+             
+
+Q6. Why is it important to understand the level of measurement when analyzing data? Provide an
+example to illustrate your answer.
+ans :  the level of measurement in data is crucial because it guides which statistical methods are appropriate.
+There are four levels: nominal (categories without order), ordinal (categories with order), interval (consistent interval but no true zero), and ratio (consistent interval with a true zero).
+
+Nominal: Colors (red, blue, green) - use mode for analysis.
+Ordinal: Education levels (high school, bachelor's) - use median and mode.
+Interval: Temperature in Celsius - use mean, standard deviation.
+Ratio: Income - use mean, median, standard deviation.
+
+
+
+
+
+
+
+Q7. How nominal data type is different from ordinal data type.
+ans: Ordinal: Education levels (high school, bachelor's) - use median and mode.
+
+
+
+
+
+
+
+Q8. Which type of plot can be used to display data in terms of range?
+ans-  Box plots provide a visual representation of the distribution of a dataset, including key summary statistics such as the median, quartiles, and potential outliers. The "box" in the plot represents the interquartile range (IQR), while the "whiskers" extend to the minimum and maximum values within a certain range or to a specific rule for identifying outliers.
+
+
+
+
+
+
+
+
+
+Q9. Describe the difference between descriptive and inferential statistics. Give an example of each
+type of statistics and explain how they are used.
+ans: 
+Desciptive Statistics:
+It's all about describing the main features of a dataset without making any inferences or drawing conclusions beyond the data at hand. Common measures of descriptive statistics include measures of central tendency (mean, median, mode) and measures of variability (range, standard deviation). Descriptive statistics provide a snapshot of the data and help to organize and simplify large amounts of information.
+eg:
+Suppose we have the scores of students in a class on a recent math test. we can calculate the mean (average) score, the median (middle score), and the standard deviation (a measure of how spread out the scores are). These statistics offer a concise summary of the students' performance without making broader predictions.
+
+
+Inferential Statistics:
+ It extends the findings from a sample to the larger population, using probability theory. Common techniques in inferential statistics include hypothesis testing, confidence intervals, and regression analysis. Inferential statistics allow researchers to draw conclusions about a population based on a limited amount of data.
+eg:
+are the height of the student in classroom similar to what we except in the entire college
+
+
+
+
+
+
+
+
+Q10. What are some common measures of central tendency and variability used in statistics? Explain
+how each measure can be used to describe a dataset.
+ans:
+Measures of Central Tendency:
+Measures of central tendency provide a single value that represents the center or typical value of a dataset.
+Mean (Average):
+Median (Middle Value):
+Mode (Most Common Value):
+
+Measures of Variability:
+Measures of variability describe the spread or dispersion of data points in a dataset.
+Range:
+Calculation: The difference between the maximum and minimum values.
+Use: Quick and simple, but sensitive to extreme values.
+Variance:
+Calculation: Average of the squared differences from the mean.
+Use: Provides a measure of how spread out the values are, but the unit is squared.
+Standard Deviation:
+Calculation: Square root of the variance.
+Use: Indicates the average distance of data points from the mean, with the same unit as the data.
+Interquartile Range (IQR):
+Calculation: The range between the first quartile (Q1) and the third quartile (Q3).
+Use: Measures the spread of the central 50% of the data, ignoring outliers
+
+These measures help summarize and describe the characteristics of a dataset. The choice of which measure to use depends on the nature of the data and the specific insights required. For example, the mean and standard deviation are commonly used for symmetric distributions, while the median and interquartile range might be preferred for skewed distributions or datasets with outliers.
+
